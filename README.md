@@ -88,17 +88,6 @@ A full-stack **Customer Relationship Management system** designed to manage lead
 
 ---
 
-## 📚 Currently Learning
-
-- ⚛️ Advanced React.js
-- 🟢 Node.js & Express.js
-- 🍃 MongoDB
-- 📘 TypeScript
-- ▲ Next.js
-- 🧠 Data Structures & Algorithms
-- 🏗️ Backend Development & API Architecture
-
----
 
 ## 🎯 Career Goal
 
