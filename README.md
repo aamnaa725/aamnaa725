@@ -83,7 +83,6 @@ A full-stack **Customer Relationship Management system** designed to manage lead
 - 📊 Lead Management
 - ✏️ Add, Edit & Delete Records
 - 🔎 Search & Filtering
-- 🔑 Role-Based Access
 - 🌐 REST API Integration
 
 ---
