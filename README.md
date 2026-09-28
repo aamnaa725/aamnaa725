@@ -1,10 +1,5 @@
 <div align="center">
-
-# 👋 Hi, I'm Amna Asif
-
 ### 💻 Web Developer · ⚛️ MERN Stack · 🎨 Frontend & ⚙️ Backend
-
-*🚀 Building full-stack web applications, end to end.*
 
 **[🌐 Portfolio](https://amna-portfolio-seven.vercel.app)** &nbsp;•&nbsp; **[📧 Email](mailto:aaamna759@gmail.com)** &nbsp;•&nbsp; **[🐙 GitHub](https://github.com/aamnaa725)**
 
